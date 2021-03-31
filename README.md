@@ -25,7 +25,9 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
 
 ## Screenshots
 ```
-
+<p align="center" >
+  <img src="screenshots/1.jpeg" width="450px">
+</p>
 
 ```
 ## Advisers 
