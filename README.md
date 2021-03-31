@@ -24,12 +24,11 @@ By pressing "Sair" you exit the game.
 The application is available for download at [Projeto CEPOC Linguagens](https://mega.nz/file/Iognkaya#xB5JyBMbw21uf02GKDjZ2NmbKWgODO3dtfmDA_mX-yw) 
 
 ## Screenshots
-```
+
 <p align="center" >
   <img src="screenshots/1.jpeg" width="450px">
 </p>
 
-```
 ## Advisers 
 
 * João Carlos de Moraes Morselli Junior
