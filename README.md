@@ -60,7 +60,7 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
 ## Developers 
 
 * Bruno Fernando Candido
-* Luiz Fellipe Garcia Sargaço
+* [Luiz Fellipe Garcia Sargaço](https://github.com/LuizFGarcia)
 * [Lucas Omar Andrade Leal](https://github.com/lucasoal)
 * [Nicholas César Figueiredo Pereira](https://github.com/nicholascfp)
 * Tiago Zardetto Hourneaux
