@@ -2,7 +2,7 @@
 The project was developed during second semester of 2020 in partnership with [PUCMINAS University](https://www.pucpcaldas.br/) and 
 [CEPOC School](http://cepoc.com.br/), in order to create some tools that can help teachers in their teaching methodology, during Covid-19 pandemic. 
 
-Our team`s project was responsible to support portuguese teacher teaching grammatics and abbreviations to students of about 12 to 13 years old.
+Our team's project was responsible to support portuguese teacher teaching grammatics and abbreviations to students of about 12 to 13 years old.
 
 The application was built using [MIT Appinventor](https://appinventor.mit.edu/).
 
@@ -25,8 +25,11 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
 
 ## Screenshots
 
-<p align="center" >
-  <img src="screenshots/1.jpeg" width="450px">
+<p align="left" >
+  
+  <img src="screenshots/1.jpeg" width="350" height="700">
+  <img align="right" display="inline" src="screenshots/2.jpeg" width="350px" height="700px">
+  
 </p>
 
 ## Advisers 
