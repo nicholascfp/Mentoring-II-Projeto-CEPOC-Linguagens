@@ -1,22 +1,20 @@
 # Mentoring II - Projeto CEPOC Linguagens
+The project was developed during second semester of 2020 in partnership with [PUCMINAS University](https://www.pucpcaldas.br/) and 
+[CEPOC School](http://cepoc.com.br/), in order to create some tools that can help teachers in their teaching methodology, during Covid-19 pandemic. 
+
+Our team`s project was responsible to support portuguese teacher teaching grammatics and abbreviations to students of about 12 to 13 years old.
+
+The application was built using [MIT Appinventor](https://appinventor.mit.edu/).
+
 ## About the application
 
 ## Download
-
+The application is available for download at [Projeto CEPOC Linguagens](https://mega.nz/file/Iognkaya#xB5JyBMbw21uf02GKDjZ2NmbKWgODO3dtfmDA_mX-yw) 
 ## Screenshots
 ```
-![Screen1](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/1.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/1.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/2.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/3.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/4.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/5.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/6.jpeg)
-![image](https://github.com/nicholascfp/nicholascfp-Mentoring-II-Projeto-CEPOC-Linguagens/blob/main/screenshots/7.jpeg)
+
 
 ```
-## Videos
-
 ## Advisers 
 
 * João Carlos de Moraes Morselli Junior
@@ -29,4 +27,3 @@
 * [Lucas Omar Andrade Leal](https://github.com/lucasoal)
 * [Nicholas César Figueiredo Pereira](https://github.com/nicholascfp)
 * Tiago Zardetto Hourneaux
-
