@@ -52,12 +52,6 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
   
 </p>
 
-## Videos
-
-<video width="320px" height="240px" controls>
-  <source src="videos/Mentoring II_CEPOC_Linguagens.mp4" type="video/mp4">
-</video>
-
 ## Advisers 
 
 * João Carlos de Moraes Morselli Junior
