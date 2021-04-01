@@ -36,6 +36,10 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
   <img display="inline" src="media/7.jpeg" width="130px" height="250px">
   
 </p>
+
+<p align="center" >
+  <img src="media/Mentoring_II_CEPOC_Linguagens.gif" width="130" height="250"/>
+</p>
   
 ## Advisers 
 
