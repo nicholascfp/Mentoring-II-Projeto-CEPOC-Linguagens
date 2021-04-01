@@ -21,7 +21,7 @@ By pressing "Sair" you exit the game.
 
 ## Download
 
-The application is available for download at [Projeto CEPOC Linguagens](https://mega.nz/file/Iognkaya#xB5JyBMbw21uf02GKDjZ2NmbKWgODO3dtfmDA_mX-yw) 
+The application is available for download at [Projeto CEPOC Linguagens](https://mega.nz/file/Iognkaya#xB5JyBMbw21uf02GKDjZ2NmbKWgODO3dtfmDA_mX-yw).
 
 ## Medias
 
