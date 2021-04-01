@@ -27,18 +27,18 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
 
 <p align="left" >
   
-  <img align="left" src="media/1.png" width="130px" height="250px">
-  <img display="inline" src="media/2.jpeg" width="130px" height="250px">
-  <img display="inline" src="media/3.jpeg" width="130px" height="250px">
-  <img display="inline" src="media/4.jpeg" width="130px" height="250px">
-  <img display="inline" src="media/5.jpeg" width="130px" height="250px">
-  <img display="inline" src="media/6.jpeg" width="130px" height="250px">
-  <img display="inline" src="media/7.jpeg" width="130px" height="250px">
+  <img align="left" src="media/1.png" width="128px" height="250px">
+  <img display="inline" src="media/2.jpeg" width="128px" height="250px">
+  <img display="inline" src="media/3.jpeg" width="128px" height="250px">
+  <img display="inline" src="media/4.jpeg" width="127px" height="250px">
+  <img display="inline" src="media/5.jpeg" width="128px" height="250px">
+  <img display="inline" src="media/6.jpeg" width="128px" height="250px">
+  <img display="inline" src="media/7.jpeg" width="128px" height="250px">
   
 </p>
 
 <p align="center" >
-  <img src="media/Mentoring_II_CEPOC_Linguagens.gif" width="130" height="250"/>
+  <img src="media/Mentoring_II_CEPOC_Linguagens.gif" width="127" height="250"/>
 </p>
   
 ## Advisers 
