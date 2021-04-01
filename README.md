@@ -27,8 +27,8 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
 
 <p align="left" >
   
-  <img src="media/1.png" width="150px" height="300px">
-  <img align="left" src="screenshots/2.jpeg" width="150px" height="300px"">
+  <img align="left" src="media/1.png" width="150px" height="300px">
+  <img align="left" src="media/2.jpeg" width="150px" height="300px">
   
 </p>
   
