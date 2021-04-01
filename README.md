@@ -28,7 +28,12 @@ The application is available for download at [Projeto CEPOC Linguagens](https://
 <p align="left" >
   
   <img align="left" src="media/1.png" width="150px" height="300px">
-  <img align="left" src="media/2.jpeg" width="150px" height="300px">
+  <img display="inline" src="screenshots/2.jpeg" width="150px" height="300px">
+  <img display="inline" src="screenshots/3.jpeg" width="150px" height="300px">
+  <img display="inline" src="screenshots/4.jpeg" width="150px" height="300px">
+  <img display="inline" src="screenshots/5.jpeg" width="150px" height="300px">
+  <img display="inline" src="screenshots/6.jpeg" width="150px" height="300px">
+  <img display="inline" src="screenshots/7.jpeg" width="150px" height="300px">
   
 </p>
   
